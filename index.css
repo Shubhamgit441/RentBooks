@@ -22,7 +22,7 @@ align-items: center;
     background-position: 0 0;
     font-size: 83px;
     margin-bottom: -1px;
-    animation: shubham 10s ease infinite;
+    animation: praveen 10s ease infinite;
 }
 @keyframes praveen {
     100%{
